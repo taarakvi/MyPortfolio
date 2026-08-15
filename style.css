@@ -515,13 +515,13 @@ section4{
     transition:0.4s ease;  
 }
 .calcuBox{
-    background-image:url("img-source/calculators.jpg");
+    background-image:url("img-source/calculator thumbnail.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .weatherBox{
-    background-image:url("img-source/weather.jpg");
+    background-image:url("img-source/weather web thumbnail.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -533,13 +533,19 @@ section4{
     background-position: center;
 }
 .spotifyBox{
-    background-image:url("img-source/spotify.png");
+    background-image:url("img-source/music thumbnail.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.resumePDF{
+    background-image:url("img-source/resumePDF.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .gmailBox{
-    background-image:url("img-source/gmail.jpg");
+    background-image:url("img-source/gmail generator.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
